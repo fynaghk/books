@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "name": "Çərpələng uçuran",
+      "author": "Xalid Huseini",
+      "year": 2016,
+      "price": 10,
+      "category_ID": 1
+    },
+    {
+      "name": "Kimyagər",
+      "author": "Paulo Coelho",
+      "year": 2015,
+      "price": 14,
+      "category_ID": 2
+    },
+    {
+      "name": "Gold nuggets",
+      "author": "Osho",
+      "year": 2017,
+      "price": 10,
+      "category_ID": 3
+    },
+    {
+      "name": "Eşq və qəm",
+      "author": "Rauda Jamis",
+      "year": 2016,
+      "price": 10,
+      "category_ID": 4
+    },
+    {
+      "name": "Çərpələng uçuran",
+      "author": "Xalid Huseini",
+      "year": 2018,
+      "price": 9,
+      "category_ID": 5
+    },
+    {
+      "name": "Zamanın qısa tarixi",
+      "author": "Stephen Hawking",
+      "year": 2018,
+      "price": 14,
+      "category_ID": 6
+    },
+    {
+      "name": "Me before you",
+      "author": "Jojo Moyes",
+      "year": 2016,
+      "price": 29,
+      "category_ID": 7
+    },
+    {
+      "name": "Nietzsche ağladığında",
+      "author": "İrvin D. Yalom",
+      "year": 2013,
+      "price": 17,
+      "category_ID": 8
+    },
+    {
+      "name": "Kitab oğrusu",
+      "author": "Markus Zusak",
+      "year": 2012,
+      "price": 10,
+      "category_ID": 9
+    },
+    {
+      "name": "The Secret",
+      "author": "Rhonda Byrne",
+      "year": 2013,
+      "price": 13,
+      "category_ID": 10
+    }
+  ]
+}
